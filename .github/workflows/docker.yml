@@ -1,7 +1,7 @@
 name: Build WeRSS Image
 
 on:
-  workflow_dispatch: # 允许网页上手动点击运行
+  workflow_dispatch:
 
 jobs:
   build:
